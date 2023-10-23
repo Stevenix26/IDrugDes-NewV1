@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&family=Montserrat:wght@400;500;600;700&display=swap');
+
+
+* {
+  box-sizing: border-box;
+}
+
+html{
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Lato', sans-serif, 'Montserrat', sans-serif;
+    
+}
+
+:root{
+  --main-color: #1f2278;
+  --orange-color: #f17732;
+  --btn-color: #565acf; 
+
+}
+
+span{display: block;}
+
+section, footer, header{
+  width: 100%;
+  height: auto;
+  overflow: hidden;
+  max-width: 100%;
+  padding: 25px 0px;
+  margin-top: 50px;
+}
+
+
+.app {
+  margin: auto;
+}

@@ -1,0 +1,19 @@
+header{
+    margin-top: 0px;
+    background-color: azure;
+}
+
+header .row h1{
+    color: var(--btn-color);
+    font-size: 20px;
+    margin: 10px 0px;
+
+}
+
+header h2{
+    color: var(--main-color);
+    font-size: 50px;
+    margin: 20px 0px;
+    font-weight:bold;
+    letter-spacing: 1px;
+}
